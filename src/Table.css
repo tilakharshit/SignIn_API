@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.active_class1{
+    font-size: x-large;
+     line-height: 40px;
+      
+     margin: 30px;
+}
